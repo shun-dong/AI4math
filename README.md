@@ -9,3 +9,4 @@
 
 - 官方的在线环境 https://live.lean-lang.org/?from=mathlib
 - Natural number game: https://adam.math.hhu.de/ ，是港大开发的一个交互式学习
+- https://github.com/leanprover-community/mathematics_in_lean 教材和 lean 习题
