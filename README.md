@@ -13,6 +13,8 @@
 4. lean 中的 tactic
 5. 积类型与类型类
 6. 命名空间与 `mathlib` 库
+7. coding agent
+
 未完待续
 
 ## 线上资源
