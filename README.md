@@ -1,31 +1,29 @@
-
-
-> 这可能表明了 AI 系统具有优势的一种方式：不仅仅是它们可以尝试所有已知的方法，而且它们可以在不被压垮的情况下，比数学家在更险恶的水域中玩更长时间。当然，这还没有稳健地成为事实，但这可能是一个预兆性事件。
+> This may show one way in which AI systems have an advantage: not only can they try every known approach, but they can keep playing for longer, in more treacherous waters, than mathematicians can without being overwhelmed. Of course, this has not yet become robustly true, but it may be a portentous event.
 >  @ Jacob Tsimerman
 
-本仓库包含 AI4math 讨论班的课程资料和其他 AI4math 相关的资料
+This repository contains the course materials for the AI4math seminar, as well as other AI4math-related materials.
 
-## 课程结构
-0. 依赖类型论导论
-1. AI4math 的历史, agent 导论, 依赖类型论导论
-2. lean 导论
-3. 归纳类型
-4. lean 中的 tactic
-5. 积类型与类型类
-6. 命名空间与 `mathlib` 库
-7. coding agent
+## Course structure
+0. Introduction to dependent type theory
+1. History of AI4math, introduction to agents, introduction to dependent type theory
+2. Introduction to Lean
+3. Inductive types
+4. Tactics in Lean
+5. Product types and type classes
+6. Namespaces and the `mathlib` library
+7. Coding agents
 
-未完待续
+To be continued
 
-## 线上资源
-工具
-- [Lean Web](https://live.lean-lang.org/) lean 官方的在线环境
-- [Mathlib4 Search](https://leansearch.net/) 北大开发的 lean 定理查找器
-- [Lean Game Server](https://adam.math.hhu.de/) Natural number game 等港大开发的 lean 交互式学习
-- [Crispher/MathlibExplorer: Visualizing the network of math theories.](https://github.com/Crispher/MathlibExplorer) 可视化 mathlib 库
+## Online resources
+Tools
+- [Lean Web](https://live.lean-lang.org/) the official online environment for Lean
+- [Mathlib4 Search](https://leansearch.net/) a Lean theorem finder developed at Peking University
+- [Lean Game Server](https://adam.math.hhu.de/) interactive Lean learning such as the Natural Number Game, developed at the University of Hong Kong
+- [Crispher/MathlibExplorer: Visualizing the network of math theories.](https://github.com/Crispher/MathlibExplorer) visualize the mathlib library
 
-文档
-- [leanprover-community/mathematics_in_lean: The user home repository for the Mathematics in Lean tutorial.](https://github.com/leanprover-community/mathematics_in_lean) 教材和 lean 习题
+Documentation
+- [leanprover-community/mathematics_in_lean: The user home repository for the Mathematics in Lean tutorial.](https://github.com/leanprover-community/mathematics_in_lean) textbook and Lean exercises
 
-平台
-- [Proofs and Prompts – Notes from the common room](https://proofsandprompts.com/) 一个数学家关于 AI 观点的论坛
+Platform
+- [Proofs and Prompts – Notes from the common room](https://proofsandprompts.com/) a forum for a mathematician's views on AI
