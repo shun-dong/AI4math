@@ -12,6 +12,7 @@ This repository contains the course materials for the AI4math seminar, as well a
 5. Product types and type classes
 6. Namespaces and the `mathlib` library
 7. Coding agents
+8. Riemann hypothesis and deep learning
 
 To be continued
 
